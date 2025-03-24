@@ -1,14 +1,14 @@
-1, Product picture
+### 1, Product picture
 
 ![esp32_terminal_dlc35010_1_6_1_02](./esp32_terminal_dlc35010_1_6_1_02.jpg)
 
-2, Product version number
+### 2, Product version number
 
 |      | Hardware | Software | Remark |
 | ---- | -------- | -------- | ------ |
 | 1    | V2.0     | V1.0     | latest |
 
-3, product information
+### 3, product information
 
 - ESP32-S3WROOM-1-N16R8 module with 16MB Flash and 8 MB PSRAM
 - Wi-Fi Protocol: 802.11b/g/n (802.11n up to 150Mbps)
@@ -23,13 +23,13 @@
 - Active Area: 73.63(L)x49.79mm(W)
 - Appearance Dimensions: 106(L)x66mm(W)x13mm(H)
 
-4, Use the driver module
+### 4, Use the driver module
 
 | Name | dependency library |
 | ---- | ------------------ |
 | LVGL | lvgl/lvgl@8.3.3    |
 
-5,Quick Start
+### 5,Quick Start
 
 ##### Arduino IDE starts
 
@@ -87,7 +87,7 @@ C:\Users\Documents\Arduino\libraries\
 
 ![thonny2](./thonny2.jpg)
 
-6,Folder structure.
+### 6,Folder structure.
 
 |--3D file： Contains 3D model files (.stp) for the hardware. These files can be used for visualization, enclosure design, or integration into CAD software.
 
@@ -101,7 +101,7 @@ C:\Users\Documents\Arduino\libraries\
 
 |--factory_sourcecode: Contains the source code for the factory firmware, allowing users to modify and rebuild the firmware as needed.
 
-7,Pin definition
+### 7,Pin definition
 
 
 
