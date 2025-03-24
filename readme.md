@@ -1,6 +1,6 @@
 1, Product picture
 
-![esp32_terminal_dlc35010_1_6_1_02](F:\wiki\crowpanel esp32 hmi display\CrowPanel-ESP32 Terminal with 3.5 inch parallel 480x320 TFT capacitive touch RGB display\esp32_terminal_dlc35010_1_6_1_02.jpg)
+![esp32_terminal_dlc35010_1_6_1_02](./esp32_terminal_dlc35010_1_6_1_02.jpg)
 
 2, Product version number
 
@@ -42,11 +42,13 @@ C:\Users\Documents\Arduino\libraries\
 
 
 2.Open the Arduino IDE
+
 ![arduino1](https://github.com/user-attachments/assets/53a44b6e-cf7e-4a7d-8f2d-00c37cb20729)
 
 
 
 3.Open the code configuration environment and burn it
+
 ![arduino2](https://github.com/user-attachments/assets/e478382b-985e-492d-ab27-11ebc96a9724)
 
 
@@ -60,6 +62,7 @@ C:\Users\Documents\Arduino\libraries\
 ![4](https://github.com/user-attachments/assets/a842ad62-ed8b-49c0-bfda-ee39102da467)
 
 2.In the IDF plug-in, select the port, then compile and flash
+
 ![5](https://github.com/user-attachments/assets/76b6182f-0998-4496-920d-d262a5142df3)
 
 
