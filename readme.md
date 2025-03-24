@@ -125,4 +125,5 @@ C:\Users\Documents\Arduino\libraries\
         cfg.pin_d14 = 5;
         cfg.pin_d15 = 4;
 #define SDA_FT6236 38
+
 #define SCL_FT6236 39
